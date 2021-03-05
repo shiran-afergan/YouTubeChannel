@@ -1,4 +1,4 @@
-//Video explenation here - 
+//Video explanation here - 
 //https://youtu.be/bI27Vnwakxc
 
 class Solution {
