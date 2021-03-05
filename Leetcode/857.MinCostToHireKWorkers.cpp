@@ -1,4 +1,4 @@
-//Video explenation - 
+//Video explanation - 
 //https://youtu.be/o8emK4ehhq0
 
 class Solution {
